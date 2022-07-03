@@ -12,7 +12,8 @@ export default function ProductsList() {
 
   useEffect(() => {
     const products = JSON.parse(localStorage.getItem("product"));
-    if (products.length) {
+    const productsArray = products || [];
+    if (productsArray.length) {
       setListProducts(products);
     }
   }, []);
