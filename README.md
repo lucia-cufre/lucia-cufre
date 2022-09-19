@@ -1,14 +1,13 @@
-### Hi! I'm Lucía Cufré 👋
+## 💜 Olá, meu nome é <strong>Lucía Cufré!</strong>
 
-- 🌱 I’m currently learning Node.js com Express and APIs REST at Labenu's formation.
-- 😄 Pronouns: she/her
+> Tenho 26 anos e estou fazendo a formação Full Stack da Labenu. 
 
-<div align="center">
-  <a href="https://github.com/lucia-cufre">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lucia-cufre&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucia-cufre&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+🔭 Atualmente estou trabalhando num MVP de uma ecommerce, usando as tecnologias Node.js, Typescript e Express.
 
+💬 Estou disponível para conversar quando quiser! 
+
+----
+## 🚀 Minhas Skills
   <div style="display: inline_block"><br>
   <img align="center" alt="Lucia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lucia-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -19,3 +18,13 @@
 </div>
   
   ##
+  
+  ## ⭐ Informações sobre minha conta GitHub
+  
+  <div align="left">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucia-cufre&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+ 
+</div>
+  
+  
