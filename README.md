@@ -21,10 +21,7 @@
   
   ## ⭐ Informações sobre minha conta GitHub
   
-  <div align="left">
-  <a href="https://github.com/lucia-cufre">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucia-cufre&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-
+  ### Pode achar meu projetos feitos no bootcamp da Labenu no repositorio future4code/hopper-Lucia-Cufre que se encontra embaixo! 
 
  
 </div>
