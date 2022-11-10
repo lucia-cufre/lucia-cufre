@@ -1,6 +1,6 @@
 ## 💜 Olá, meu nome é <strong>Lucía Cufré!</strong>
 
-> Tenho 26 anos e estou fazendo a formação Full Stack da Labenu. 
+> Tenho 27 anos e estou fazendo a formação Full Stack da Labenu. 
 
 🔭 Estou procurando minha primeira oportunidade no mercado dev, sou entusiasta em aprender coisas novas todos os dias e aprimorar meus conhecimentos! Também amo estudar idiomas, atualmente estou estudando ingles e o espanhol é meu idioma nativo. 
 
