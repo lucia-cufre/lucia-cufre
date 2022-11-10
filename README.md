@@ -21,7 +21,7 @@
   
   ## ⭐ Informações sobre minha conta GitHub
   
-  ### Pode achar meu projetos feitos no bootcamp da Labenu no repositorio future4code/hopper-Lucia-Cufre que se encontra embaixo! 
+  ### Pode achar meus projetos feitos no bootcamp da Labenu no repositorio future4code/hopper-Lucia-Cufre que se encontra embaixo! 
 
  
 </div>
