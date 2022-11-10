@@ -2,7 +2,7 @@
 
 > Tenho 26 anos e estou fazendo a formação Full Stack da Labenu. 
 
-🔭 Atualmente estou trabalhando num MVP de uma ecommerce, usando as tecnologias Node.js, Typescript e Express.
+🔭 Estou procurando minha primeira oportunidade no mercado dev, sou entusiasta em aprender coisas novas todos os dias e aprimorar meus conhecimentos! Também amo estudar idiomas, atualmente estou estudando ingles e o espanhol é meu idioma nativo. 
 
 💬 Estou disponível para conversar quando quiser! 
 
@@ -22,8 +22,10 @@
   ## ⭐ Informações sobre minha conta GitHub
   
   <div align="left">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/lucia-cufre">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucia-cufre&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+
  
 </div>
   
