@@ -1,8 +1,9 @@
 ## 💜 Olá, meu nome é <strong>Lucía Cufré!</strong>
 
-> Tenho 27 anos e estou fazendo a formação Full Stack da Labenu. 
+> Tenho 28 anos e sou desenvolvedora de software. 
 
-🔭 Estou procurando minha primeira oportunidade no mercado dev, sou entusiasta em aprender coisas novas todos os dias e aprimorar meus conhecimentos! Também amo estudar idiomas, atualmente estou estudando ingles e o espanhol é meu idioma nativo. 
+Atualmente trabalho para a empresa ECOMPLY.io, localizada na Alemanha, onde trabalho com Angular e Node.js. 
+Nossa comunicação é a traves do Inglês. 
 
 💬 Estou disponível para conversar quando quiser! 
 
