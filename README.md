@@ -6,6 +6,8 @@
 
 🚀 Always exploring new technologies and improving my craft—open to connecting and sharing knowledge!
 
+📚 Currently studying Web3 and Blockchain development to expand my skill set and dive into the decentralized future!
+
 ----
 ## 🚀 Skills
 * JavaScript.js
