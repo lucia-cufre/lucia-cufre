@@ -1,29 +1,12 @@
-👋 Hi there! I'm a passionate software developer with a strong drive to grow, learn, and build meaningful solutions.
+👋 Hi, I'm a mid-level software developer with 3+ years of experience building compliance software at ECOMPLY.io, working across the full stack with Angular and Node.js.
 
-💻 Currently working as a mid-level developer at ECOMPLY.io for the past 3 years, where I focus on develop our software using Angular and Node.js.
+💻 I write clean, efficient code and enjoy tackling real-world problems — from architecting backend services to crafting polished frontends.
+🌍 Comfortable in international, collaborative environments and experienced working in agile teams.
 
-🌍 I thrive in collaborative, international teams and enjoy solving real-world problems through clean and efficient code.
+📚 Currently exploring financial systems and what it takes to build secure, reliable software at scale.
+🚀 Always learning, always building — feel free to connect!
 
-🚀 Always exploring new technologies and improving my craft—open to connecting and sharing knowledge!
-
-📚 Currently studying Web3 and Blockchain development to expand my skill set and dive into the decentralized future!
-
-----
-## 🚀 Skills
-* JavaScript.js
-* Node.js
-* Express.js
-* PostgreSQL
-* Typescript
-* Angular
-* Docker
-* Prisma ORM
-* SCSS
-* DocxTemplater
-* Cronjobs
-* Jira - Agile 
-</div>
-
-</div>
-  
-  
+🛠️ Skills
+Frontend: Angular · TypeScript · SCSS
+Backend: Node.js · Express.js · PostgreSQL · Prisma ORM · Cron Jobs
+Tooling & Workflow: Docker · CI/CD · Docxtemplater · Jira · Agile 
