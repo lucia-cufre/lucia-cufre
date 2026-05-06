@@ -13,7 +13,8 @@ I enjoy writing clean, efficient, and easy-to-understand code — whether I'm de
 ## 🛠️ Tech Stack
 
 #### Languages
-- TypeScript · JavaScript
+- TypeScript
+- JavaScript
 
 #### Backend
 - Node.js · Express
