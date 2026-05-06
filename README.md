@@ -1,8 +1,7 @@
 ## Introduction
-👋 Hi, I'm a **mid-level software developer** with 3+ years of experience building compliance software at ECOMPLY.io, working across the full stack with Angular and Node.js.
+👋 Hi, I'm a **software developer** with 3+ years of experience building compliance software at ECOMPLY.io, working across the full stack with Angular and Node.js.
 
-💻 I'm a passionate software developer with a strong drive to grow, learn, and build meaningful solutions.
-I enjoy writing clean, efficient, and easy-to-understand code — whether I'm designing backend systems or building smooth, user-friendly interfaces.
+💻 I focus on writing clean, maintainable code and building reliable systems—from backend architecture to intuitive frontend experiences.
 
 🌍 Comfortable in international, collaborative environments and experienced working in agile teams.
 
@@ -12,32 +11,8 @@ I enjoy writing clean, efficient, and easy-to-understand code — whether I'm de
 
 ## 🛠️ Tech Stack
 
-#### Languages
-- TypeScript
-- JavaScript
-
-#### Backend
-- Node.js · Express
-- Knex · Prisma
-- JWT · Passport · SAML
-- BullMQ
-- Redis
-- LDAP · Active Directory
-
-#### Frontend
-- Angular (multiple versions)
-- Angular Material
-- RxJS
-- D3 · Chart.js
-- i18n · ngx-translate
-
-#### Databases
-- PostgreSQL
-
-#### Infrastructure & DevOps
-- Docker · Docker Compose
-- GitHub Actions
-- CI/CD
-
-#### Testing
-- Jest
+**Core:** TypeScript · Angular · Node.js  
+**Backend:** Express · Prisma · PostgreSQL · Redis  
+**Frontend:** Angular · RxJS · Chart.js  
+**Infra:** Docker · GitHub Actions · CI/CD  
+**Testing:** Jest
